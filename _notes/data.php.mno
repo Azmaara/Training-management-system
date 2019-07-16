@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_values" value="name:Training_Title;datatype:string,name:Training_Num;datatype:string,name:Training_Date_From;datatype:date,name:Training_Date_To;datatype:date,name:Venue;datatype:string,name:Faculty;datatype:string,name:Status;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:Name;datatype:string,name:Designation;datatype:string" />
+</info>

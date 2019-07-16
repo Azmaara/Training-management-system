@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_ongcdetails" value="name:Training_Title;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:CPF;datatype:int,name:password;datatype:string" />
+	<infoitem key="UD_gettraining" value="name:Training_Title;datatype:string" />
+</info>
